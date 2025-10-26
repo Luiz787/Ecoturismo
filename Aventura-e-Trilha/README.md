@@ -1,2 +1,0 @@
-# Aventura-e-Trilha
-Ecoturismo
